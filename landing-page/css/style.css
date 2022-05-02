@@ -96,7 +96,31 @@ a{
     margin-top: 10px;
 }
 
+/***************
+**INFO SECTION**
+****************/
+.info-section{
+    padding: 50px 50px 50px 100px;
+}
+.info-heading{
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: extra-bold;
+    text-align: center;
+}
 
+.img-container{
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.info-img{
+    border: 5px solid #3883F6;
+    border-radius: 8px;
+    height: 200px;
+    margin-bottom: 10px;
+    width: 80%;
+}
 
 
 
